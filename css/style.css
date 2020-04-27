@@ -38,6 +38,10 @@ section {
 	color: #9EADA8;
 }
 
+#link:hover {
+	text-decoration: underline;
+}
+
 #press {
 	margin-bottom: 20px;
 }
